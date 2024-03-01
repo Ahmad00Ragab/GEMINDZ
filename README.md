@@ -6,6 +6,6 @@ Develop a Flask API that exposes endpoints for managing test cases and their exe
 across multiple test assets, with data stored in a SQLite database.
 
 **Task2 Overview:**
-▪ Monitor the energy consumption in the electric panel 24/7, 1 reading per second.
-▪ Connect over Wi-Fi, and send the data to web interface/mobile application.
-▪ Display the information, and provide recommendation for efficient energy consumption.
+- Monitor the energy consumption in the electric panel 24/7, 1 reading per second.
+- Connect over Wi-Fi, and send the data to web interface/mobile application.
+- Display the information, and provide recommendation for efficient energy consumption.
