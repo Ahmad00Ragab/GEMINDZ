@@ -1,4 +1,3 @@
 # GEMINDZ-EMS
-![Simulation-ScreenShot](./System context diagram.PNG)
-![GEMINDZ-EMS Simulation](./Capture.PNG)
+![System_Context_Diagram](./System context diagram.PNG)
 
