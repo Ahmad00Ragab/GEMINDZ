@@ -1,2 +1,2 @@
 # GEMINDZ-EMS
-![System_Context_Diagram](./System_Context_Diagram.png)
+![System_Context_Diagram](../System_Context_Diagram.png)
