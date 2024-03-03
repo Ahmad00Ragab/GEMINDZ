@@ -10,3 +10,4 @@
 - Connect over Wi-Fi, and send the data to web interface/mobile application.
 - Display the information, and provide recommendation for efficient energy consumption.
 
+## THANK YOU 
