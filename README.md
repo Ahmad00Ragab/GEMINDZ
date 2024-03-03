@@ -9,5 +9,3 @@
 - Monitor the energy consumption in the electric panel 24/7, 1 reading per second.
 - Connect over Wi-Fi, and send the data to web interface/mobile application.
 - Display the information, and provide recommendation for efficient energy consumption.
-
-## THANK YOU 
